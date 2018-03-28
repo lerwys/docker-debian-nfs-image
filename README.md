@@ -1,3 +1,6 @@
+!!! THIS REPOSIRORY IS OBSOLETE AND WAS REPLACED BY DEBIAN-BASE-IMAGE (https://github.com/lerwys/docker-debian-base-image) !!!
+=====================================================================================================================
+
 debian-nfs-image in a container
 ===============================
 
